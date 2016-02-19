@@ -2,12 +2,12 @@
 
 ## File format
 
-(element - Begin of element
-Akey value - Element attribute
-)element - End of element
--character - Character data
-_comment - Comment
-?target code - Instruction
+* (element - Begin of element
+* Akey value - Element attribute
+* )element - End of element
+* -character - Character data
+* _comment - Comment
+* ?target code - Instruction
 
 ## Filetype
 ```vim
