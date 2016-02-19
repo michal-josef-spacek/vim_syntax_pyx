@@ -2,6 +2,7 @@
 " Language:         pyx syntax
 " Maintainer:       Michal Špaček <tupinek@gmail.com>
 " Latest Revision:  2016-02-19
+" Version:          0.01
 
 " For version 5.x: Clear all syntax items
 " For version 6.x: Quit when a syntax file was already loaded
